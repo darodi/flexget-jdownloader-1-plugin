@@ -9,6 +9,6 @@ see :
 
 [flexget ticket](http://flexget.com/ticket/1435)
 
-Jodnwloader v1 API links : [cnl2](http://jdownloader.org/knowledge/wiki/glossary/cnl2) /
+Jdonwloader v1 API links : [cnl2](http://jdownloader.org/knowledge/wiki/glossary/cnl2) /
 [flashgot interface](https://support.jdownloader.org/index.php?/Knowledgebase/Article/View/25/0/flashgot-interface) /
 [remote control](http://jdownloader.org/knowledge/wiki/addons/list/remotecontrol)
