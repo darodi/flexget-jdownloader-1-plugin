@@ -1,3 +1,8 @@
+> :warning: **This plugin is obsolete, use jdownloader2 with flexget instead**: see https://flexget.com/Cookbook/Jdownloader2
+
+
+
+
 # flexget-jdownloader-1-plugin 
 
 FlexGet is a multipurpose automation tool for content like torrents, nzbs, podcasts, comics, series, movies, etc.
